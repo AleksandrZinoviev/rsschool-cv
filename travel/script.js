@@ -1,0 +1,5 @@
+function updateLight(current) {
+    if('')
+    
+  
+  }
